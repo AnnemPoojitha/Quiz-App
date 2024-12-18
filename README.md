@@ -68,9 +68,9 @@ Instructions on how to run and test the code:
 
    If answer is correct then it will give the output as follows otherwise it will display Incorrect Answer.
 
-![Screenshot 2024-12-18 151717](https://github.com/user-attachments/assets/e7ba8cec-7a4b-4fc7-a942-5d37fa6092ca)
-
    Replace questionId and answer with respective ones to submit answers to all the questions.
+
+![Screenshot 2024-12-18 151717](https://github.com/user-attachments/assets/e7ba8cec-7a4b-4fc7-a942-5d37fa6092ca)
 
 8. To check correctness and incorrectness: After submitting answers to all the questions, paste below link to check statistics.
 
